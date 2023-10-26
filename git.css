@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100&display=swap');
+
+*{
+    margin: 0;
+}
+
+
+body{
+    background-color: #0d1117;
+    font-family: 'Noto Sans', sans-serif;
+}
+/* container top{
+    background-color: #0d1117;
+} */
+.container{
+    background-color: #161b22;;
+}
+input[type="email"],[type="password"]
+{
+    background-color: #0d1117;
+}
+a {
+    text-decoration: none;
+  }
+.custom{
+    background-color: rgb(14, 31, 31);
+    color: aquamarine;
+}
+.btn{
+    background-color: #238636;
+}
+.bottom{
+    border: 10px;
+    
+}
+.grey{
+    color: grey
+
+}
+.footer a{
+    margin-right: 12px;
+
+}
