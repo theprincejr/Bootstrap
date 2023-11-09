@@ -18,6 +18,7 @@ body{
 input[type="email"],[type="password"]
 {
     background-color: #0d1117;
+    border-color: #3a3a3a;
 }
 a {
     text-decoration: none;
@@ -30,8 +31,9 @@ a {
     background-color: #238636;
 }
 .bottom{
-    border: 10px;
-    
+    border: 20px;
+    border-color: #238636 ;
+
 }
 .grey{
     color: grey
@@ -40,4 +42,9 @@ a {
 .footer a{
     margin-right: 12px;
 
+}
+.card
+{
+    background-color: #161b22;
+    border-color: #2f2f2f;
 }
